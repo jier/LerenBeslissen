@@ -1,0 +1,6 @@
+Dit zijn de links van de Kaggle website met bruikbare data
+
+https://www.kaggle.com/arthurtok/d/deepmatrix/imdb-5000-movie-dataset/principal-component-analysis-with-kmeans-visuals# 
+https://www.kaggle.com/ankitjha/d/deepmatrix/imdb-5000-movie-dataset/comparing-regression-models 
+https://www.kaggle.com/avnovikov/d/deepmatrix/imdb-5000-movie-dataset/predicting-box-office# 
+https://www.kaggle.com/kiranbaktha/d/deepmatrix/imdb-5000-movie-dataset/neural-network-introduction 
