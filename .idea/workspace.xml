@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab92dba3-202e-4273-9876-5e3331304ece" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/kaggle7-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/kaggle7.ipynb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Eveline2.ipynb" afterPath="$PROJECT_DIR$/Eveline2.ipynb" />
     </list>
@@ -330,7 +328,19 @@
       <option name="project" value="LOCAL" />
       <updated>1485430864183</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="nieuwe versie">
+      <created>1485434933802</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1485434933802</updated>
+    </task>
+    <task id="LOCAL-00018" summary="nieuwe versie">
+      <created>1485434967067</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1485434967067</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
